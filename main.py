@@ -1,1 +1,2 @@
-list_of_items = ['adam','john']
+list_of_items = ['adam', 'john']
+print(list_of_items)
